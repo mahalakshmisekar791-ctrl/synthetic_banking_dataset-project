@@ -1,4 +1,8 @@
-# synthetic_banking_dataset-project
+
+#  Synthetic Dataset Structure
+* Dataset Name: synthetic_banking_dataset.csv
+* Rows: 10,000 customers
+* Columns: 18 features
 # Project Title:
 
 Bank Customer Risk & Default Prediction Using a Synthetic Banking Dataset
@@ -12,10 +16,7 @@ This project creates a synthetic banking dataset and builds a predictive model f
 * Creditworthiness Assessment
 
 The dataset is 100% synthetic and suitable for public GitHub projects.
-#  Synthetic Dataset Structure
-* Dataset Name: synthetic_banking_dataset.csv
-* Rows: 10,000 customers
-* Columns: 18 features
+
 #  ML Workflow Included in Project
 * Data Preprocessing
 
